@@ -15,11 +15,9 @@
 
             <property name="hibernate.connection.url">jdbc:oracle:thin:@localhost:1521/db01</property>
 
-            /*
-                ENTER YOUR DB CONNECTION CREDENTIALS BELOW
-            */
-            <property name="hibernate.connection.username"> </property>
-            <property name="hibernate.connection.password"> </property>
+
+            <property name="hibernate.connection.username"></property>
+            <property name="hibernate.connection.password"></property>
        
          <property name="hibernate.current_session_context_class">thread</property>
         <property name="hibernate.show_sql">true</property>
