@@ -1,0 +1,28 @@
+### Java template
+# Compiled class file
+.class
+
+
+# output folders
+out/
+JavaDoc/
+
+# Jar Building Artifacts
+src/META-INF
+
+# IDE STUFF
+# ------------------------------------
+
+# IntelliJ IDE
+.idea/
+*.iml
+
+# Eclipse
+.project
+.classpath
+.settings
+
+# Visual Studio Code
+.vscode/
+
+/bin/
