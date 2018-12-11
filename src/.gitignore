@@ -13,6 +13,9 @@ src/META-INF
 # IDE STUFF
 # ------------------------------------
 
+# hibernate.cfg
+hibernate.cfg.xml
+
 # IntelliJ IDE
 .idea/
 *.iml
